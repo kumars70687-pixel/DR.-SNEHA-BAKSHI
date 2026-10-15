@@ -1,0 +1,6 @@
+{
+  "name": "Dr. Sneha Bakshi (MBBS) - General Physician",
+  "description": "Premium medical website for Dr. Sneha Bakshi (MBBS), General Physician & Visiting Consultant at Nu Med Hospital in Supertech Eco Village-2, Noida.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
