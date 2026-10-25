@@ -1,5 +1,10 @@
 @import "tailwindcss";
 
+/* Hide the floating Powered by Netlify badge injected on the live site. */
+#nl-badge-frame {
+  display: none !important;
+}
+
 @layer base {
   :root {
     --primary: #173B63;
